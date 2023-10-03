@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\aghat\OneDrive\Desktop\Lab Codes\Lab 11\Lab11\21I-2544.h(74,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\aghat\OneDrive\Desktop\Lab Codes\Lab 11\Lab11\21I-2544.h(76,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lab11.vcxproj -> C:\Users\aghat\OneDrive\Desktop\Lab Codes\Lab 11\Lab11\x64\Debug\Lab11.exe

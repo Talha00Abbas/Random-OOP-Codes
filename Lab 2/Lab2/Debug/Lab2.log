@@ -1,0 +1,5 @@
+﻿  Lab2.cpp
+D:\SEMESTER 3\Lab Codes\Lab 2\Lab2\header.h(145,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\SEMESTER 3\Lab Codes\Lab 2\Lab2\Lab2.cpp(40,81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\SEMESTER 3\Lab Codes\Lab 2\Lab2\header.h(75): warning C4715: 'task2': not all control paths return a value
+  Lab2.vcxproj -> D:\SEMESTER 3\Lab Codes\Lab 2\Lab2\Debug\Lab2.exe

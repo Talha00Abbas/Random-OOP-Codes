@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\aghat\OneDrive\Desktop\Lab Codes\Lab14\Publication.h(63,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\aghat\OneDrive\Desktop\Lab Codes\Lab14\Employee.h(53,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aghat\OneDrive\Desktop\Lab Codes\Lab14\Employee.h(59,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lab14.vcxproj -> C:\Users\aghat\OneDrive\Desktop\Lab Codes\Lab14\x64\Debug\Lab14.exe

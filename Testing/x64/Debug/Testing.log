@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Source2.cpp
+C:\Users\aghat\OneDrive\Desktop\Lab Codes\Testing\Source2.cpp(91,156): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\aghat\OneDrive\Desktop\Lab Codes\Testing\Source2.cpp(123,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Testing.vcxproj -> C:\Users\aghat\OneDrive\Desktop\Lab Codes\Testing\x64\Debug\Testing.exe

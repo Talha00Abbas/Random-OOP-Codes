@@ -1,0 +1,4 @@
+C:\Users\aghat\OneDrive\Desktop\Lab Codes\Lab10\Lab 10\x64\Debug\Lab 10.vcxproj.CopyComplete
+C:\Users\aghat\OneDrive\Desktop\Lab Codes\Lab10\Lab 10\x64\Debug\Lab 10.exe
+C:\Users\aghat\OneDrive\Desktop\Lab Codes\Lab10\Lab 10\x64\Debug\gtest.pdb
+C:\Users\aghat\OneDrive\Desktop\Lab Codes\Lab10\Lab 10\x64\Debug\gtest_main.pdb
